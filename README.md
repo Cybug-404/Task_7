@@ -39,7 +39,7 @@
   - Inject ads into web pages to earn revenue fraudulently.
   - Auto-click on ads (click fraud) using your browser in the background.
 
-     ### Monitoring and Tracking
+   ### Monitoring and Tracking
   - Track all browsing behavior (sites visited, time spent, clicks).
   - Build detailed profiles of users and sell the data. 
 
